@@ -71,7 +71,7 @@ ConnectMeet/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ConnectMeet.git
+git clone https://github.com/Divya004tiwari/ConnectMeet.git
 cd ConnectMeet
 ```
 
