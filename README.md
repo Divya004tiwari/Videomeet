@@ -1,6 +1,6 @@
-# Zoom – Full-Stack Video Conferencing Platform
+# VideoMeet – Full-Stack Video Conferencing Platform
 
-ConnectMeet is a full-stack video conferencing platform that enables users to host and join secure online meetings with real-time audio/video communication, screen sharing, live chat, and meeting history. Built using modern web technologies, it delivers a seamless collaboration experience similar to popular video conferencing applications.
+VideoMeet is a full-stack video conferencing platform that enables users to host and join secure online meetings with real-time audio/video communication, screen sharing, live chat, and meeting history. Built using modern web technologies, it delivers a seamless collaboration experience similar to popular video conferencing applications.
 
 ---
 
@@ -23,7 +23,6 @@ ConnectMeet is a full-stack video conferencing platform that enables users to ho
 
 ### Frontend
 - React.js
-- Material UI
 - HTML5
 - CSS3
 - JavaScript
@@ -37,7 +36,6 @@ ConnectMeet is a full-stack video conferencing platform that enables users to ho
 - MongoDB
 
 ### Real-Time Communication
-- WebRTC
 - Socket.IO
 
 ### Authentication
