@@ -46,7 +46,7 @@ VideoMeet is a full-stack video conferencing platform that enables users to host
 ## 📂 Project Structure
 
 ```
-ConnectMeet/
+VideoMeet/
 │
 ├── frontend/
 │   ├── public/
@@ -71,8 +71,8 @@ ConnectMeet/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Divya004tiwari/ConnectMeet.git
-cd ConnectMeet
+git clone https://github.com/Divya004tiwari/VideoMeet.git
+cd VideoMeet
 ```
 
 ### Install dependencies
@@ -166,9 +166,9 @@ JWT_SECRET=your_secret_key
 
 **Divya Tiwari**
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/Divya004tiwari
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Divya004tiwari
 
 ---
 
