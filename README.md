@@ -31,12 +31,14 @@ VideoMeet is a full-stack video conferencing platform that enables users to host
 - Node.js
 - Express.js
 - Socket.IO
+- WebRTC
 
 ### Database
 - MongoDB
 
 ### Real-Time Communication
 - Socket.IO
+- WebRTC
 
 ### Authentication
 - JWT / Authentication Middleware
